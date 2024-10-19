@@ -1,0 +1,11 @@
+- Estrutura de dados != dados;
+- dependendo da linguagem teremos uma estrutura or outra;
+- estruturas definem como os dados serão organizados;
+- fila fifo, and lifo;
+- estruturas de árvores;
+- tabelas organizadas em linhas e colunas;
+- estruturas de dados básicas:
+    int - real - string - boolean
+- Variáveis e constantes:
+    operações (lógicas, relacões, atribuição, aritméticas);
+- 

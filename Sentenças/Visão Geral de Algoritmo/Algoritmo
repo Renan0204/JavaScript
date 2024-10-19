@@ -1,0 +1,17 @@
+- Algoritmo é uma sequência de passos;
+- Temos uma repetição de conjunto de passos;
+- Podemos repetir alguns passos várias vezes quando quisermos;
+- Também é possivel tomar decisões;
+    ex: executar o passo A, caso for executado determinada condição!
+- Vestir funções:
+    cueca -> meias -> sapato -> calça -> camisa
+        (Colocar a calça com o sapato já no pé seria dificultoso);
+- Vestir 2.0:
+    calça -> meia -> sapato -> cueca -> camisa 
+        (Cueca por cima da calça geraria um BUG);
+- Vestir 3.0:
+    cueca -> calça -> meias -> sapato -> camisa;
+- Visão Geral:
+    entrada 1 ->
+    entrada 2 ->   Processamento -> saída
+    entrada 3 ->
